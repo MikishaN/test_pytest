@@ -5,4 +5,6 @@ def test_one():
 def test_two():
     assert 2 == 2
     
+def test_th():
+    assert 3 == 3    
 
